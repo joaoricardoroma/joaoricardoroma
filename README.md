@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoricardoroma&show_icons=true&locale=en" alt="joaoricardoroma" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoricardoroma&" alt="joaoricardoroma" />
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joaoricardoroma&show_icons=true&locale=en" alt="joaoricardoroma" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoricardoroma&" alt="joaoricardoroma" />
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
