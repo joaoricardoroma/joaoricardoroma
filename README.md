@@ -22,9 +22,10 @@
 </p>
 
 <p>&nbsp;<img width="400" height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=joaoricardoroma&show_icons=true&locale=en" alt="joaoricardoroma" />
-<img align="left" width="400" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoricardoroma&" alt="joaoricardoroma" /></p>
+<img align="left" width="400" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoricardoroma&" alt="joaoricardoroma" />                                     
+</p>
 
-<h1 align="center">Connect with me:</h1>
+<h2 align="center">Connect with me:</h1>
 <p align="center">
 <a href="https://codepen.io/https://codepen.io/joaoricardoroma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/joaoricardoroma" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/joaoricardoroma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/joaoricardoroma" height="30" width="40" /></a>
