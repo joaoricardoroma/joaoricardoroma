@@ -18,13 +18,14 @@
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></p>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</p>
 
 <p>&nbsp;<img width="400" height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=joaoricardoroma&show_icons=true&locale=en" alt="joaoricardoroma" />
 <img align="left" width="400" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoricardoroma&" alt="joaoricardoroma" /></p>
 
 <br/>
-
+<h1></h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/https://codepen.io/joaoricardoroma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/joaoricardoroma" height="30" width="40" /></a>
