@@ -1,6 +1,7 @@
 <h1 align="center">Joao Roma Fullstack developer</h3><img align="right" src="https://i.pinimg.com/564x/26/0f/3f/260f3f05f712757bbf07ddacfddeff65.jpg" width="250" height="300">
 
 <h3>About me:</h3>
+
   <p></p>I started studying programming in Python when I was 17 years old and since then I found myself in what I want to pursue my career. I left Brazil when I was 19 years old and came to Ireland where I perfected my English and entered the computer science college. I study programming daily but I always stay I'm open to new opportunities in related fields, I'm naturally curious and competitive when I do what I like, and I feel unstoppable when I manage to learn from those around me, I feel like I have all the potential waiting for me.</p>
 
 <h3 align="left">Languages and Tools:</h3>
