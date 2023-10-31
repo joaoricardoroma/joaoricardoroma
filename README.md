@@ -23,7 +23,7 @@
 </p>
 
 <p>&nbsp;<img width="400" height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=joaoricardoroma&show_icons=true&locale=en&theme=dark" alt="joaoricardoroma" />
-<img align="left" width="400" height="150" src="https://streak-stats.demolab.com/?user=joaoricardoroma&theme=midnight-purple"/>                                     
+<img align="left" width="400" height="150" src="https://streak-stats.demolab.com/?user=joaoricardoroma&theme=black-ice"/>                                     
 </p>
 
 <h2 align="center">Connect with me:</h1>
