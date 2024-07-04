@@ -2,7 +2,7 @@
 
 <h3>About me:</h3>
 
-  <p></p>I started studying programming in Python when I was 17y since then I found myself in what I want to pursue my career. I left Brazil when I was 18y, and came to Ireland where I perfected my English and entered the computer science college. I study programming daily but I always stay I'm open to new opportunities in related fields, I'm naturally curious and competitive when I do what I like, and I feel unstoppable when I manage to learn from those around me, I feel like I have all the potential waiting for me.</p>
+  <p></p>I started studying programming in Python when I was 17y since then I found myself in what I want to pursue my career. I left Brazil when I was 18y, and came to Ireland where I perfected my English and entered the computer science college. I study programming daily but I always stay open to new opportunities in related fields, I'm naturally curious and competitive when I do what I like, and I feel unstoppable when I manage to learn from those around me, I feel like I have all the potential waiting for me.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
