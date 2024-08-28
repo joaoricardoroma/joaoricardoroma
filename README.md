@@ -3,11 +3,11 @@
 <h3>About me:</h3>
 
   <p></p>A dedicated and self-motivated student at CCT College Dublin. My knowledge is based on Python and Java followed by different tools and technologies. I am eager to participate in challenging projects and work together with dynamic teams. Strong Problem solving and analytics skills With attention in code reviews, planning and requirement analysis.
-----------
-Dynamic and results-oriented blend of Software Engeniner and Program manager with proved experience leading cross-functional teams Recognized for Bias for Action, strategic planning, and the ability to drive collaboration across departments. Demonstrated success in fostering innovative solutions and enhancing customer satisfaction through excellent communication and problem-solving skills.
-------
+
+A dynamic and results-oriented blend of Software Engineer and Program manager with proven experience leading cross-functional teams Recognized for Bias for Action, strategic planning, and the ability to drive collaboration across departments and demonstrated success in fostering innovative solutions and enhancing customer satisfaction through excellent communication and problem-solving skills.
+
 Linkedin - Joao Roma(https://www.linkedin.com/in/joao-roma-7779531b4/)
-Explore my repository for a portfolio of personal and collaborative projects. Highlights include (https://github.com/joaoricardoroma/Jungle_devs_test) that showcase my proficiency in Python and related technologies.</p>
+Explore my repository for a portfolio of personal and collaborative projects. Highlights include (https://github.com/joaoricardoroma/Jungle_devs_test) showcasing my Python proficiency and related technologies.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
