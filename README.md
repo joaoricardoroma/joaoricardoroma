@@ -2,12 +2,12 @@
 
 <h3>About me:</h3>
 
-  <p></p>Software Developer with a robust foundation in Python and Java, complemented by hands-on
+  <p>Software Developer with a robust foundation in Python and Java, complemented by hands-on
 experience at Amazon. Demonstrated ability in optimizing inventory management and enhancing
 cross-team accountability through innovative solutions. Eager to leverage skills in API Development,
 Software Testing, and Systems Integration to drive transformative projects and foster collaborative
-environments.
-
+environments.</p>
+<br/>
 Linkedin - Joao Roma(https://www.linkedin.com/in/joao-roma-7779531b4/)
 Explore my repository for a portfolio of personal and collaborative projects. Highlights include (https://github.com/joaoricardoroma/Jungle_devs_test) showcasing my Python proficiency and related technologies.</p>
 
