@@ -1,6 +1,6 @@
 <h1 align="center">Joao Roma Fullstack developer</h3><img align="right" src="https://i.pinimg.com/564x/26/0f/3f/260f3f05f712757bbf07ddacfddeff65.jpg" width="250" height="300">
 
-<h3>About me:</h3>
+<h3>About me: </h3>
 
   <p>Software Developer with a robust foundation in Python and Java, complemented by hands-on
 experience at Amazon. Demonstrated ability in optimizing inventory management and enhancing
